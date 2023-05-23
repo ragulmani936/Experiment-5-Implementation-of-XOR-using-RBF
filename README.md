@@ -135,3 +135,4 @@ Thus,The program to classify the Binary input patterns of XOR data by implementi
 
 
 
+
